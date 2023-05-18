@@ -1,4 +1,4 @@
-const API_KEY = "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"
+const API_KEY = ""
 
 async function fetchData() {
 
